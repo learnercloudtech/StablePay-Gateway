@@ -1,5 +1,0 @@
-{
-  "name": "StablePay Gateway",
-  "description": "A prototype web app for a stablecoin-based merchant payment platform, allowing users to pay in stablecoins and merchants to receive payouts in stablecoins or fiat.",
-  "requestFramePermissions": []
-}
